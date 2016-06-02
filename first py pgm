@@ -1,0 +1,42 @@
+#Hello World
+print ("Hello world!")
+
+
+#adding two numbers
+
+a = 10
+b = 20
+
+c = a+b
+print (c)
+
+
+# Calculating meal cost
+
+meal = 44.50
+tax = 0.75
+tip = 0.10
+
+
+Meal_tax = (meal+(meal*tax))
+Meal_tip = (Meal_tax+tip)
+
+print (Meal_tax)
+print (Meal_tip)
+
+#Length of the words
+
+my_var = "Alphabetical Order"
+
+len(my_var)
+print (len(my_var))
+
+
+#Lower case
+
+my_var = "Alphabetical Order"
+
+my_var.lower()
+print(my_var.lower())
+
+
